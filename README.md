@@ -28,3 +28,15 @@ cd functions
 npm install
 firebase emulators:start
 ```
+
+
+## Here Are Some screenshots. 
+
+![Main](/screen-shots/main.png)
+
+![Subtotal](/screen-shots/subtotal.png)
+
+![Checkout](/screen-shots/checkout.png)
+
+![Order History](/screen-shots/orderHist.png)
+
